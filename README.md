@@ -73,9 +73,6 @@ Copenhagen, Capital Region of Denmark 🇩🇰
 
 *"I am able to analyze problems, sketch solutions, develop ideas, create rapid prototypes, create design and architecture, collaborate with end users, and find the best solution within a given scope."*
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesperKihlberg&show_icons=true&theme=default)
-
 ---
 
 ⭐️ From [jesperkihlberg](https://github.com/YOUR_USERNAME)
